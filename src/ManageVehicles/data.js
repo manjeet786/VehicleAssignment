@@ -1,0 +1,127 @@
+export const vehicle =[{
+   "id":0,
+        "name":"car",
+         "color":"blue",
+         "size":"small",
+          "brand":"indica"
+   },
+   {
+     "id":1,
+      "name":"bicycle",
+       "color":"white",
+        "size":"medium",
+         "brand":"hercules"
+        },
+        {
+      "id":2,
+      "name":"motorcycle",
+       "color":"black",
+        "size":"medium",
+         "brand":"pulsor"
+        },
+        {
+          "id":3,
+          "name":"car",
+           "color":"black",
+            "size":"medium",
+             "brand":"mercedes"
+            },
+            {
+              "id":4,
+               "name":"bicycle",
+                "color":"brown",
+                "size":"medium",
+                 "brand":"atlas"
+          },
+          {
+            "id":5,
+             "name":"motorcycle",
+              "color":"grey",
+              "size":"large",
+               "brand":"apache"
+        },
+        {
+          "id":6,
+           "name":"motorcycle",
+            "color":"red",
+            "size":"medium",
+             "brand":"atlas"
+      },
+      {
+        "id":7,
+         "name":"motorcycle",
+          "color":"red",
+          "size":"medium",
+           "brand":"atlas"
+    },
+    {
+      "id":8,
+       "name":"motorcycle",
+        "color":"red",
+        "size":"medium",
+         "brand":"atlas"
+  },
+  {
+    "id":9,
+     "name":"motorcycle",
+      "color":"red",
+      "size":"medium",
+       "brand":"atlas"
+},
+{
+  "id":10,
+   "name":"motorcycle",
+    "color":"red",
+    "size":"medium",
+     "brand":"atlas"
+},
+{
+"id":11,
+"name":"car",
+ "color":"blue",
+ "size":"small",
+  "brand":"indica"
+},
+
+{
+"id":12,
+"name":"car",
+ "color":"blue",
+ "size":"small",
+  "brand":"indica"
+},
+{
+"id":12,
+"name":"car",
+ "color":"blue",
+ "size":"small",
+  "brand":"indica"
+},
+{
+"id":13,
+"name":"car",
+ "color":"blue",
+ "size":"small",
+  "brand":"indica"
+},
+{
+"id":14,
+"name":"car",
+ "color":"blue",
+ "size":"small",
+  "brand":"indica"
+},
+
+{
+  "id":15,
+   "name":"bicycle",
+    "color":"white",
+     "size":"medium",
+      "brand":"hercules"
+     },
+             
+  
+  ]
+  
+          
+        
